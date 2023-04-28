@@ -20,7 +20,7 @@ export const sliderItems = [
     {
         id: 3,
         img: require('./images/img3.jpg').default,
-        title: "LOUNGEWEAR LOVE",
+        title: "PERFUME LOVE",
         desc: "DON'T COMPROMISE ON STYLE! GET FLAT 30% OFF FOR NEW ARRIVALS.",
         bg: "fbf0f4",
     },
