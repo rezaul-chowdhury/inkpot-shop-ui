@@ -35,7 +35,7 @@ export const categories = [
     {
         id: 2,
         img: require('./images/img5.jpg').default,
-        title: "LOUNGEWEAR LOVE",
+        title: "PERFUME LOVE",
     },
     {
         id: 3,
